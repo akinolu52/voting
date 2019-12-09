@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sonata-project/google-authenticator": "^2.2",
+        "phpgangsta/googleauthenticator": "dev-master"
+    }
+}
