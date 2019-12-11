@@ -1,7 +1,8 @@
 {
     "require": {
         "sonata-project/google-authenticator": "^2.2",
-        "phpgangsta/googleauthenticator": "dev-master"
+        "phpgangsta/googleauthenticator": "dev-master",
+        "ext-mysqli": "*"
     },
 	"require-dev": {
 		"heroku/heroku-buildpack-php": "*"

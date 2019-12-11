@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "38bebc4428ff3e9dced22f3f08f733b6",
+    "content-hash": "136cf2fcf3eb2be6a4ff734e37dcdd25",
     "packages": [
         {
             "name": "phpgangsta/googleauthenticator",
@@ -160,6 +160,8 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "ext-mysqli": "*"
+    },
     "platform-dev": []
 }
